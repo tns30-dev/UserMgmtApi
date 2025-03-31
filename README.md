@@ -30,7 +30,7 @@ UserManagementAPI is an ASP.NET Core Web API project designed to manage users wi
 2. Navigate to the project directory:
 
     ```bash
-    cd UserManagementAPI
+    cd UserMgmtApi
     ```
 
 3. Restore the dependencies:
